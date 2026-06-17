@@ -17,6 +17,7 @@ export type Config = {
   REDIS_PASSWORD: string;
   REDIS_DB: number;
   ZHIHU_COOKIE: string;
+  WEIBO_COOKIE: string;
   FILTER_WEIBO_ADVERTISEMENT: boolean;
 };
 
